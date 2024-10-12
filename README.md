@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Njoroge</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Python for Data science, Machine Learning**
 
-- 💬 Ask me about **HTML, PHP, JAVASCRIPT, PYTHON**
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON,GOLANG**
 
 - 📫 How to reach me **njorogeian823@gmail.com**
 

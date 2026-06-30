@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Njoroge</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=823njoroge&label=Profile%20Views&color=8A2BE2&style=flat" alt="823njoroge" />
+</p>
+
 <h3 align="center">
 Aspiring Data Scientist | Machine Learning & AI Engineer
 </h3>

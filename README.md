@@ -8,42 +8,11 @@ Partner Brand Representative | Aspiring Data Scientist | Machine Learning & AI E
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **Partner Brand Representative** at **Interconsumer Products Ltd**
-- 📊 Passionate about **Data Science, Machine Learning and Artificial Intelligence**
-- 🐍 Currently deepening my knowledge in **Python for Data Science**
-- 📈 Experienced in **Power BI, Excel, Sales Analytics and Business Intelligence**
-- 🚀 Building projects in Python, Pandas and Machine Learning
-- 🎯 Goal: Become an **ML Engineer / AI Engineer**
-
----
-
-## 🌱 Currently Learning
-
-- Python
-- NumPy
-- Pandas
-- SQL
-- Statistics
-- Machine Learning
-- Scikit-Learn
-- Git & GitHub
-
----
-
-## 💬 Ask Me About
-
-- Python
-- Power BI
-- Excel
-- Data Analytics
-- Sales Reporting
-- Business Intelligence
-
----
-
-## 📫 Reach Me
-
-📧 **njorogeian823@gmail.com**
+- 💼 Partner Brand Representative at **Interconsumer Products Ltd**
+- 📊 Passionate about **Data Science, Machine Learning & Artificial Intelligence**
+- 🐍 Currently sharpening my **Python** skills for AI and Data Science
+- 📈 Experienced in **Power BI, Excel, Sales Analytics & Business Intelligence**
+- 📫 Reach me at **njorogeian823@gmail.com**
 
 ---
 
@@ -64,55 +33,32 @@ Partner Brand Representative | Aspiring Data Scientist | Machine Learning & AI E
 ## 🛠 Languages & Tools
 
 <p align="left">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=823njoroge&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=823njoroge&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=823njoroge&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=823njoroge&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=823njoroge&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=823njoroge&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🚀 2026 Goals
-
-- ✅ Master Python
-- ✅ Learn Pandas & NumPy
-- 🔄 Build 10 Data Science Projects
-- 🔄 Learn Machine Learning
-- 🔄 Learn Deep Learning
-- 🔄 Build AI Applications
-- 🔄 Contribute to Open Source
-
----
-
-> *"Turning data into insights and ideas into intelligent solutions."*
+> *"Turning data into insights and building intelligent solutions with AI."*

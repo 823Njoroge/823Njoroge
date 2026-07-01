@@ -51,7 +51,7 @@ Aspiring Data Scientist | Machine Learning & AI Engineer
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=823njoroge&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=823njoroge&theme=tokyonight&hide_border=true"/>
+
 
 </p>
 

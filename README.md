@@ -71,14 +71,13 @@ class Ian:
 - 🧠 AI-powered applications
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=823njoroge&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=823njoroge&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=823njoroge&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=823njoroge&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -87,7 +86,6 @@ class Ian:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=823njoroge&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect
